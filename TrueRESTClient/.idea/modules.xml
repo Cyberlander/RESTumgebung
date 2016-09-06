@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TrueRESTClient.iml" filepath="$PROJECT_DIR$/TrueRESTClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restserverbachelorarbeit/restserverbachelorarbeit.iml" filepath="$PROJECT_DIR$/restserverbachelorarbeit/restserverbachelorarbeit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restserverone/restserverone.iml" filepath="$PROJECT_DIR$/restserverone/restserverone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tooleap-sdk-0.9.6/tooleap-sdk-0.9.6.iml" filepath="$PROJECT_DIR$/tooleap-sdk-0.9.6/tooleap-sdk-0.9.6.iml" />
+    </modules>
+  </component>
+</project>
